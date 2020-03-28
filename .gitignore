@@ -1,0 +1,11 @@
+.idea/
+dist/
+build/
+__pycache__/
+.git/
+.vscode/
+pylint/
+venv/
+pip-selfcheck.json
+pyvenv.cfg
+github-start.bat
